@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **on different languages**
 
-- 📫 How to reach me **zoelinchiyan@gmail.com**
+- 📫  Feel free to reach me @ **zoelinchiyan@gmail.com**
 
 - ⚡ Fun fact **I play trumpet :)**
 
