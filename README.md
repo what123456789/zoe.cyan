@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zoe</h1>
-<h3 align="center">Currently a student passionate</h3>
+<h3 align="center">Currently a diploma student located in Malaysia </h3>
 
 - 🔭 I’m currently working on **a lost and found app**
 
